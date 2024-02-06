@@ -1,13 +1,13 @@
 #  飞书
 BASE_URL: https://open.feishu.cn
-APP_ID: cli_axxx
-APP_SECRET: xxx
-APP_ENCRYPT_KEY: xxx
-APP_VERIFICATION_TOKEN: xxx
+APP_ID: cli_a54b2569157b100b
+APP_SECRET: D16FBzNeTyk3jBhxDWHVKbG5a27ujW0o
+APP_ENCRYPT_KEY: anvbi4IYnM7p4d9xnb1h0bkxbpqYSkUm
+APP_VERIFICATION_TOKEN: fWYaEo88ICslinZOihvNzh1fuS85EGWB
 # 请确保和飞书应用管理平台中的设置一致
 BOT_NAME: chatGpt
 # openAI key 支持负载均衡 可以填写多个key 用逗号分隔
-OPENAI_KEY: sk-xxx,sk-xxx,sk-xxx
+OPENAI_KEY: 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
 # openAI model 指定模型，默认为 gpt-3.5-turbo
 # 可选参数有："gpt-4-1106-preview", "gpt-4-32K","gpt-4","gpt-3.5-turbo-16k", "gpt-3.5-turbo"，"gpt-3.5-turbo-16k","gpt-3.5-turbo-1106" 等
 #  如果使用gpt-4，请确认自己是否有接口调用白名单
