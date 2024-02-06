@@ -7,7 +7,7 @@ APP_VERIFICATION_TOKEN: fWYaEo88ICslinZOihvNzh1fuS85EGWB
 # 请确保和飞书应用管理平台中的设置一致
 BOT_NAME: chatGpt
 # openAI key 支持负载均衡 可以填写多个key 用逗号分隔
-OPENAI_KEY: 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
+OPENAI_KEY: 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
 # openAI model 指定模型，默认为 gpt-3.5-turbo
 # 可选参数有："gpt-4-1106-preview", "gpt-4-32K","gpt-4","gpt-3.5-turbo-16k", "gpt-3.5-turbo"，"gpt-3.5-turbo-16k","gpt-3.5-turbo-1106" 等
 #  如果使用gpt-4，请确认自己是否有接口调用白名单
